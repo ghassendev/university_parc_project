@@ -1,4 +1,4 @@
 symapp
 ======
 
-A Symfony project created on April 7, 2020, 3:48 am.
+A University Symfony 3 project just import database from folder and try it !

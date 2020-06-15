@@ -1,0 +1,13 @@
+parc:
+    resource: "@ParcBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+etudiant:
+    resource: "@EtudiantBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
